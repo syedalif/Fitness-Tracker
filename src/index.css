@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@fontface {
+	font-family: "consolas";
+	src: url ("src\Fonts\CONSOLAB.TTF");
+}

@@ -1,0 +1,56 @@
+{
+    "PushDay": {
+		"routineName": "Push Day",
+		"exercises": [
+			{ "name": "Incline dumbbell press", "id": "Dq-_x0uCUsI" },
+			{ "name": "Flat dumbbell press", "id": "z6A4W5Dib28" },
+			{ "name": "Incline cable flys", "id": "UC_bVrWkb7g" },
+			{ "name": "Seated machine chest press", "id": "4SscB4eAxt4" },
+			{ "name": "Dips", "id": "ci5tcFgIntI" },
+			{ "name": "Tricep cable pushdown (rope)", "id": "4HYJpXs6rWg" },
+			{ "name": "Tricep cable pushdown (bar)", "id": "sTxOvWIBZKY" }
+		]
+	},
+
+    "PullDay": {
+        "routineName": "Pull Day",
+		"exercises": [
+			{ "name": "Kneeling single-hand lat pulldown", "id": "jykziY6qvhc" },
+			{ "name": "Wide grip barbell rows", "id": "Nqh7q3zDCoQ" },
+			{ "name": "Pull ups", "id": "dvG8B2OjfWk" },
+			{ "name": "Neutral grip machine rows", "id": "g99Peqv21i8" },
+			{ "name": "Incline bicep curls", "id": "X_VnFh4eqck" },
+			{ "name": "Hammer curls", "id": "OPhgvwKBOwI" },
+			{ "name": "Preacher curls", "id": "Htw-s61mOw0" }
+		]
+    },
+
+    "LegDay": {
+        "routineName": "Leg Day",
+        "exercises": [
+            { "name": "Bulgarian split squats", "id": "uODWo4YqbT8" },
+            { "name": "Quad extensions", "id": "5tGLgFGDcDE" },
+            { "name": "Romanian deadlifts", "id": "5rIqP63yWFg" },
+            { "name": "Hamstring Curls", "id": "ANKSmhT0dTk" },
+            { "name": "Standing calf raises", "id": "i4H2BIUCxoY" },
+            { "name": "Sitting calf raises", "id": "vCOlZ-zk80o" },
+            { "name": "Tibialis raises", "id": "_MN8NJSKSCo" }
+        ]
+
+    },
+
+    "ArmsAndShoulders": {
+        "routineName": "Arms and Shoulders",
+		"exercises": [
+			{ "name": "Standing overhead barbell press", "id": "DN3WXJlB1Q4" },
+			{ "name": "Seated overhead dumbbell press", "id": "A94MvXVPi8M" },
+			{ "name": "Single arm lateral raise (cable)", "id": "dV21vAOs4uk" },
+			{ "name": "Rear delt flys (cable)", "id": "txKwl2nBzNE" },
+			{ "name": "Incline bicep curls", "id": "" },
+			{ "name": "Hammer curls", "id": "X_VnFh4eqck" },
+			{ "name": "Dips", "id": "ci5tcFgIntI" },
+			{ "name": "Cross cable tricep extension", "id": "uID8NFK1p5Y" }
+		]
+    }
+
+}
